@@ -21,6 +21,7 @@ print("Today's date is =",today)
 after_5_days=timedelta(days=5)# only days modification is allowed no month and year modification is possible
 new_date=today+after_5_days
 print("After 5 days date is =",new_date)
+print("hello world")
 
 
 
